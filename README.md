@@ -7,9 +7,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=7AA2F7&center=true&width=760&vVWidth=760&lines=B.Tech+CSE+%40+VIT+Vellore+%C2%B7+2023%E2%80%932027%3BFull-Stack+%C2%B7+AI%2FML+%C2%B7+Data+Science%3BI+build+things+that+actually+ship" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Faniveshgupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniveshgupta/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-aniveshguptaofficial.github.io-7AA2F7?style=flat-square)](https://aniveshguptaofficial.github.io/PORTFOLIO/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aniveshguptaofficial.github.io-7AA2F7?style=flat-square)](https://aniveshgupta.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-aniveshgupta13579%40gmail.com-D14D57?style=flat-square&logo=gmail&logoColor=white)](mailto:aniveshgupta13579@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Anivesh-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Anivesh-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/aniveshgupta/)
 
 </div>
 
@@ -24,7 +24,7 @@
 - 🛠️ My stack: React · Node.js · Python · Java · SQL · FastAPI · Flutter
 - 🌱 Also comfortable with embedded systems (8051, I2C, AVR flashing) and DSA
 - ⚡ I pick up new tools fast and work independently across dev, data, or research roles
-- 📫 Reach me: **aniveshgupta13579@gmail.com** · +91 6289028044
+- 📫 Reach me: **aniveshgupta13579@gmail.com** · 
 - 😄 Pronouns: he/him · 📍 Vellore, India
 
 ---
