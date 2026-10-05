@@ -164,11 +164,11 @@ React SPA on Vercel with skill bars, projects, certifications and contact. 56+ c
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AniveshGuptaOfficial&theme=tokyonight&no-frame=true&no-margin=false&row=2&column=6&margin-w=8&margin-h=8" alt="GitHub trophies" />
+<img src="https://github-trophy.vercel.app/?username=AniveshGuptaOfficial&theme=tokyonight&no-frame=true&row=2&column=6&margin-w=8&margin-h=8" alt="GitHub trophies" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AniveshGuptaOfficial&theme=tokyonight&bg_color=0d1117&color=cdd9f5&area=true&hide_border=true" width="100%" alt="Contribution graph" />
+<img src="https://ghchart.rshah.org/7AA2F7/AniveshGuptaOfficial" width="100%" alt="Contribution chart (last year)" />
 
 <br/>
 
