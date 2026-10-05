@@ -24,7 +24,7 @@
 - 🛠️ My stack: React · Node.js · Python · Java · SQL · FastAPI · Flutter
 - 🌱 Also comfortable with embedded systems (8051, I2C, AVR flashing) and DSA
 - ⚡ I pick up new tools fast and work independently across dev, data, or research roles
-- 📫 Reach me: **aniveshgupta13579@gmail.com** · 
+- 📫 Reach me: **aniveshgupta13579@gmail.com**
 - 😄 Pronouns: he/him · 📍 Vellore, India
 
 ---
