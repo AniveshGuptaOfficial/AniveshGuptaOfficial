@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Anivesh Gupta 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1000&color=7AA2F7&center=true&vVWidth=640&lines=B.Tech+CSE+%40+VIT+Vellore+%7C+Class+of+2027;Full-Stack+%C2%B7+AI%2FML+%C2%B7+Data+Science;I+build+things+that+actually+ship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=7AA2F7&center=true&width=760&vVWidth=760&lines=B.Tech+CSE+%40+VIT+Vellore+%C2%B7+2023%E2%80%932027%3BFull-Stack+%C2%B7+AI%2FML+%C2%B7+Data+Science%3BI+build+things+that+actually+ship" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Faniveshgupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniveshgupta/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-aniveshguptaofficial.github.io-7AA2F7?style=flat-square)](https://aniveshguptaofficial.github.io/PORTFOLIO/)
