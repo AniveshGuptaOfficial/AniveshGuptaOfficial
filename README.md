@@ -71,7 +71,7 @@
 </td>
 <td width="50%">
 
-### [☀️ ATERN-DQD — Solar Power Forecasting](https://github.com/Pk-webTech/ATERN)
+### [☀️ ATERN-DQD — Solar Power Forecasting](https://github.com/Pk-webTech/ATERNET)
 Adaptive Temporal Expert Routing Network with Dynamic Quantile Decoding. Mixture-of-Experts backbone where each expert handles a different irradiance regime, with a quantile decoder emitting uncertainty intervals instead of point estimates. Ablations vs. LSTM and transformer baselines. Targeting *IEEE Trans. on Power Systems*.
 
 </td>
