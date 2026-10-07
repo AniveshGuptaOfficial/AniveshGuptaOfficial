@@ -79,7 +79,7 @@ Adaptive Temporal Expert Routing Network with Dynamic Quantile Decoding. Mixture
 <tr>
 <td width="50%">
 
-### 🏥 Vaidyum — AI Triage for Rural Healthcare
+### [🏥 Vaidyum — AI Triage for Rural Healthcare](https://github.com/AniveshGuptaOfficial/helpline-triage-nlp)
 NLP classifier routes incoming health messages into **Emergency / Medicine Query / Appointment**, with a secondary distress-scoring pass before escalation. Each category hits a differently-prompted Google Gemini assistant. Flutter app for voice input, FastAPI routing backend.
 
 </td>
@@ -93,7 +93,7 @@ Python scoring framework for evaluating web accessibility, with an "Other" compo
 <tr>
 <td width="50%">
 
-### 🛒 VTrade — Campus Marketplace
+### [🛒 VTrade — Campus Marketplace](https://github.com/AniveshGuptaOfficial/VTrade)
 University e-commerce & delivery platform: students order essentials and earn by taking deliveries in their free periods. OTP login, cart, slot-based delivery; Node.js/Express backend.
 
 </td>
