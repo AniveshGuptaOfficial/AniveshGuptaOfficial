@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7AA2F7,100:bb9af7&height=140&section=header&text=Anivesh%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%C2%B7%20AI%2FML%20%C2%B7%20Data%20Science&descAlignY=60&descSize=16" width="100%" alt="header" />
+
+</div>
+
+<div align="center">
+
 <img src="https://avatars.githubusercontent.com/u/161193557?v=4" width="130" alt="Anivesh Gupta" style="border-radius:50%;" />
 
 ### Hi there, I'm Anivesh Gupta 👋
@@ -79,7 +85,7 @@ Adaptive Temporal Expert Routing Network with Dynamic Quantile Decoding. Mixture
 <tr>
 <td width="50%">
 
-### 🏥 Vaidyum — AI Triage for Rural Healthcare
+### [🏥 Vaidyum — AI Triage for Rural Healthcare](https://github.com/AniveshGuptaOfficial/helpline-triage-nlp)
 NLP classifier routes incoming health messages into **Emergency / Medicine Query / Appointment**, with a secondary distress-scoring pass before escalation. Each category hits a differently-prompted Google Gemini assistant. Flutter app for voice input, FastAPI routing backend.
 
 </td>
@@ -93,7 +99,7 @@ Python scoring framework for evaluating web accessibility, with an "Other" compo
 <tr>
 <td width="50%">
 
-### 🛒 VTrade — Campus Marketplace
+### [🛒 VTrade — Campus Marketplace](https://github.com/AniveshGuptaOfficial/VTrade)
 University e-commerce & delivery platform: students order essentials and earn by taking deliveries in their free periods. OTP login, cart, slot-based delivery; Node.js/Express backend.
 
 </td>
@@ -155,6 +161,26 @@ React SPA on Vercel with skill bars, projects, certifications and contact. 56+ c
 
 ---
 
+## 🌌 My Tech Universe
+
+<div align="center">
+
+<img src="assets/3d-orbit.svg" width="100%" alt="Animated 3D orbit of my tech stack" />
+
+</div>
+
+---
+
+## 🧊 3D Contribution Graph
+
+<div align="center">
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" />
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -172,7 +198,8 @@ React SPA on Vercel with skill bars, projects, certifications and contact. 56+ c
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AniveshGuptaOfficial&color=7AA2F7&style=flat-square&label=Profile+Views" alt="Profile views" />
+<!-- Visitor counter -->
+<img src="https://komarev.com/ghpvc/?username=AniveshGuptaOfficial&color=7AA2F7&style=for-the-badge&label=VISITORS" alt="Visitors" />
 <img src="https://img.shields.io/github/stars/AniveshGuptaOfficial?style=flat-square&color=7AA2F7" alt="Stars" />
 <img src="https://img.shields.io/github/followers/AniveshGuptaOfficial?style=flat-square&color=7AA2F7&label=Followers" alt="Followers" />
 
@@ -184,6 +211,6 @@ React SPA on Vercel with skill bars, projects, certifications and contact. 56+ c
 
 ### ✨ Thanks for stopping by! ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:bb9af7,100:0d1117&height=120&section=separator" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:bb9af7,100:0d1117&height=120&section=footer&animation=twinkling" alt="" />
 
 </div>
