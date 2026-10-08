@@ -165,7 +165,7 @@ React SPA on Vercel with skill bars, projects, certifications and contact. 56+ c
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AniveshGuptaOfficial/AniveshGuptaOfficial/main/assets/3d-orbit.svg" width="100%" alt="Animated 3D orbit of my tech stack" />
+<img src="assets/3d-orbit.svg" width="100%" alt="Animated 3D orbit of my tech stack" />
 
 </div>
 
@@ -175,7 +175,7 @@ React SPA on Vercel with skill bars, projects, certifications and contact. 56+ c
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AniveshGuptaOfficial/AniveshGuptaOfficial/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" />
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" />
 
 </div>
 
