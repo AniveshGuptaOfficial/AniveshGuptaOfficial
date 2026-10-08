@@ -47,17 +47,9 @@
 
 ## 💻 Tech Stack
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,dart&theme=dark" alt="C, C++, Java, Python, JavaScript, HTML, CSS, Dart" />
-
-**Web & Mobile**
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,flask,spring,flutter,firebase&theme=dark" alt="React, Tailwind, Node.js, Express, Flask, Spring, Flutter, Firebase" />
-
-**AI / ML & Data**
-
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="PyTorch, scikit-learn" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=opencv,matlab,vercel,git&theme=dark" alt="OpenCV, MATLAB, Vercel, Git" />
+<div align="center">
+  <img src="assets/tech-stack-animated.svg" alt="Tech Stack" />
+</div>
 
 <sup>FastAPI · Hugging Face Transformers · MediaPipe · Google Gemini API · Oracle SQL · Gradle · VS Code · Figma</sup>
 

@@ -1,0 +1,42 @@
+
+      <svg
+        width="495"
+        height="110"
+        viewBox="0 0 495 110"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        role="img"
+        aria-label="Tech Stack"
+      >
+        <title>Tech Stack</title>
+
+        <rect
+          x="0.5"
+          y="0.5"
+          rx="4.5"
+          height="109"
+          stroke="#21262D"
+          width="494"
+          fill="#0D1117"
+          stroke-opacity="1"
+        />
+
+        false
+
+        
+      <g transform="translate(25, 10)">
+        
+      </g>
+    
+      <g transform="translate(25, 45)">
+        
+      </g>
+    
+
+        <style>
+          .header {
+            font: 600 18px 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            fill: #58A6FF;
+          }
+        </style>
+      </svg>
